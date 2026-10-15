@@ -2,7 +2,7 @@
   <a href="http://nestjs.com/" target="blank"><img src="https://nestjs.com/img/logo-small.svg" width="120" alt="Nest Logo" /></a>
 </p>
 
-# nestjs-platform-fastify-pg-node
+# nestjs-platform-fastify-pg-node-pg
 
 NestJS + Fastify (`@nestjs/platform-fastify`) + Postgres (`pg`) on Node.js. Implements the benchmark contract from `http-framework-benchmarks`.
 
